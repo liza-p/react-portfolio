@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-function Jumbotron({ children, page }) {
+function Jumbotron({ page }) {
   return (
     <div>
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -24,8 +24,8 @@ function Jumbotron({ children, page }) {
       style={{ height: 400, clear: "both", paddingTop: 290, textAlign: "center"}}
       className="jumbotron"
     >
-      {children}
-    
+      
+      <p>Hello! I am Liza Poliachenko</p>
       
        
 

@@ -9,6 +9,8 @@ const Portfolio = () => {
     return (
         <div className="container-fluid p-0">
             <Jumbotron page="portfolio" />
+            
+        
             <Footer/>
            
         </div>
