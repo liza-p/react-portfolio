@@ -6,7 +6,7 @@ import Portfolio from './components/Portfolio';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/react-portfolio">
       <div>
         <Switch>
           <Route exact path="/" component={AboutMe} />

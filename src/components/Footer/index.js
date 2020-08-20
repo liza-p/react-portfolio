@@ -5,8 +5,8 @@ import "./style.css";
 function Footer(props) {
   return (
     <footer className="footer fixed-bottom">
-      <div class="container text-center">
-        <span><a href="https://github.com/liza-p">Follow me</a> </span>
+      <div className="container text-center">
+        
       </div>
     </footer>
   )}
