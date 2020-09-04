@@ -1,4 +1,9 @@
-[
+[{
+  "name": "Chore Hack",
+  "github": "https://github.com/liza-p/project-3",
+  "app_url": "https://chore-hack.herokuapp.com/",
+  "img": "img/dog.png"
+},
   {
   "name": "React Clicky Game", 
   "github": "https://github.com/liza-p/react-clicky-game",
@@ -55,12 +60,6 @@
     "github": "https://github.com/liza-p/project-1",
     "app_url": "https://liza-p.github.io/project-1/",
     "img": "img/playlist.png"
-  },
-  {
-    "name": "Happy Paw",
-    "github": "https://github.com/liza-p/project-2",
-    "app_url": "https://happypaw.herokuapp.com/",
-    "img": "img/dog.png"
   },
   {
     "name": "Scheduler",
