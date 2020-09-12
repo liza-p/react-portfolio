@@ -27,11 +27,10 @@ const AboutMe = () => {
                         </div>
                     </div>
                     <div className="col" style={{fontSize: '20px'}}>
-                        <p> "I am a Full Stack web developer aiming to 
-            build user friendly and intuitive experiences on the web. Before coding 
-            I worked as a Quality Assurance Engineer for startups and middle size companies in San Francisco.
+                        <p> "I am a Full Stack Engineer aiming to 
+            build user friendly and intuitive experiences on the web.
             When designing a front-end project I strive for a good user experience considering the diversity of users who will use it.
-            When approaching the backend, I focus on creating quality products that translate to responsive front-end environments"</p>
+            When approaching the backend, I focus on creating hight quality products that translate to responsive front-end environments"</p>
                         <p>
                             <div>Front-end: JavaScript | React | HTML | CSS | Git</div>
                             <div>Back-end: NodeJs | Express | MongoDB | MySQL</div>
