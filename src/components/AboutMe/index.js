@@ -30,7 +30,7 @@ const AboutMe = () => {
                         <p> "I am a Full Stack Engineer aiming to 
             build user friendly and intuitive experiences on the web.
             When designing a front-end project I strive for a good user experience considering the diversity of users who will use it.
-            When approaching the backend, I focus on creating hight quality products that translate to responsive front-end environments"</p>
+            When approaching the backend, I focus on creating high quality products that translate to responsive front-end environments"</p>
                         <p>
                             <div>Front-end: JavaScript | React | HTML | CSS | Git</div>
                             <div>Back-end: NodeJs | Express | MongoDB | MySQL</div>
