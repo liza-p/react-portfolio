@@ -38,7 +38,7 @@ function Jumbotron({ page }) {
           <div className="greeting pt-4 ml-auto mr-auto">
             <div><b>Hello!</b></div>
             <div>I am Liza Poliachenko</div>
-            <div style={{fontSize: '20px'}}>I am a full-stack web developer</div>
+            <div style={{fontSize: '20px'}}>I am a Full-Stack Engineer</div>
           </div>
         </div>
         <div className="col-6"><img className="avatar" src="img/avatar.jpg" /></div>
